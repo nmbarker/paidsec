@@ -17,7 +17,7 @@ pagination.pagerSize = 5
     languageName = "English"
     title = "paidsec"
     [languages.en.params]
-      subtitle = "A simple, retro theme for Hugo"
+      subtitle = "Blue Teamer by Day Red Teamer by Night"
       [languages.en.params.logo]
         logoText = "paidsec"
         logoHomeLink = "/"

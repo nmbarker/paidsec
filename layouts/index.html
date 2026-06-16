@@ -1,0 +1,7 @@
+{{ define "main" }}
+<div class="home-splash">
+    <img class="home-avatar" src="{{ "img/me.jpg" | relURL }}" alt="{{ .Site.Title }}" />
+    <h1 class="home-title">{{ .Site.Title }}</h1>
+    {{ with .Site.Params.subtitle }}<p class="home-subtitle">{{ . }}</p>{{ end }}
+</div>
+{{ end }}
