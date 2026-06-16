@@ -5,7 +5,7 @@ title = 'About'
 +++
 
 I defend networks for a living and attack them for fun — and I've
-started to suspect the second sentence is where I'm headed.
+started to suspect the second part is where I'm headed.
 
 ## The day job: blue team
 
@@ -33,6 +33,25 @@ forgot to lock."
 The two sides feed each other. Every offensive technique I learn makes
 me a sharper defender, and every defensive blind spot I patch teaches
 me where to look when the roles reverse.
+
+## [BreachLab](https://breachlab.org)
+
+Over the past month, I've become very heavily involved with Breachlab.org.
+What began as after-hours practice slowly became the
+place I was most invested in.
+
+That investment paid off in a way I didn't expect. My blue team
+background — knowing how systems are *supposed* to be defended, where
+the logging lives, what a misconfiguration actually costs — turned out
+to be exactly the lens that makes for careful auditing. I was
+eventually onboarded to the BreachLab team to do just that: auditing,
+where defensive instincts and offensive curiosity meet in the same
+job.
+
+It's the clearest proof yet that the two halves of this aren't really
+separate. The defender's eye for what's wrong and the attacker's drive
+to prove it are the same skill pointed in different directions — and
+at BreachLab I get to point them both at once.
 
 ## Where this is going
 
